@@ -1,5 +1,5 @@
 # Keyword Search App
-Tired of searching through your giant excel database? Well this web app will help what you're looking for!
+Tired of searching through your giant excel database? Well this web app will help with what you're looking for!
 
 ## Instructions
 
