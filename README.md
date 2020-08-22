@@ -7,10 +7,7 @@ Tired of searching through your giant excel database? Well this web app will hel
 4. Click submit 
 5. Download Excel
 
+Once you upload a file, the app will a show sample of the data. It will also show the columns you have selected and combine them for you. When a user submits and downloads, the app will generate a excel file with each row scored according to the input provided. 
 
 ## Demo
 <img src="demo.gif" width="1000" height="700"/>
-
-Once you upload the file, the app will also show a sample of the data. It will also show the columns you have selected and combine them for you. When a user submits and downloads, the app will generate a excel file with each row scored according to the input provided. 
-
-This app was built using Dash.
