@@ -7,7 +7,7 @@ Tired of searching through your giant excel database? Well this web app will hel
 4. Click submit 
 5. Download Excel
 
-#Features:
+## Features:
 
 * Interactive: See the data you're working with. Once you upload a file, the app will a show sample of the data! 
 * Customizable: Select custom columns to search on. Also provide your own scores for each keyword!
