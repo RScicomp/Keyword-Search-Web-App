@@ -7,7 +7,11 @@ Tired of searching through your giant excel database? Well this web app will hel
 4. Click submit 
 5. Download Excel
 
-Once you upload a file, the app will a show sample of the data. It will also show the columns you have selected and combine them for you. When a user submits and downloads, the app will generate a excel file with each row scored according to the input provided. 
+#Features:
+
+* Interactive: See the data you're working with. Once you upload a file, the app will a show sample of the data! 
+* Customizable: Select custom columns to search on. Also provide your own scores for each keyword!
+* Download your results: Get your results instantly!
 
 ## Demo
 <img src="demo.gif" width="1000" height="700"/>
