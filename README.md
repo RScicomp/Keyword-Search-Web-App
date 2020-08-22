@@ -1,4 +1,4 @@
-# Keyword Scoring App
+# Keyword Search App
 Tired of searching through your giant excel database? Well this web app will help what you're looking for!
 
 1. Drag and drop Excel/CSV file 
