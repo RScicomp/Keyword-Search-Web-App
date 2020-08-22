@@ -1,3 +1,3 @@
 # Keyword Scoring App
-<img src="demo.gif" width="550" height="250"/>
+<img src="demo.gif" width="1000" height="600"/>
 
