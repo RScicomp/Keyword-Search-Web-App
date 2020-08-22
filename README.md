@@ -6,8 +6,8 @@ Tired of searching through your giant excel database to find just a handful of r
 4. Click submit 
 5. Download Excel
 
-The app will generate a excel file with each row scored according to the input provided. This app was built using Dash.
 
 ## Demo
 <img src="demo.gif" width="1000" height="700"/>
 
+The app will generate a excel file with each row scored according to the input provided. This app was built using Dash.
