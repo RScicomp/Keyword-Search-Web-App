@@ -1,2 +1,3 @@
 # Keyword Scoring App
-![Keyword App Demo](demo.gif | width=1000)
+<img src="demo.gif" width="550" height="250"/>
+
