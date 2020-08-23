@@ -10,9 +10,9 @@ Tired of searching through your giant excel database? Well this web app will hel
 5. Download Excel
 
 Example: 
-\n
+<br>
 Keywords: Finance:10, Insurance:20
-\n
+<br>
 Combinations: (Insurance:{Blockchain:10}),(AML:{Fraud:20})
 
 ## Features
