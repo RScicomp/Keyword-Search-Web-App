@@ -9,11 +9,11 @@ Tired of searching through your giant excel database? Well this web app will hel
 4. Click submit 
 5. Download Excel
 
- Example: 
+ <t> Example: 
 <br>
-  Keywords: Finance:10, Insurance:20
+<t>Keywords: Finance:10, Insurance:20
 <br>
-  Combinations: (Insurance:{Blockchain:10}),(AML:{Fraud:20})
+ <t>Combinations: (Insurance:{Blockchain:10}),(AML:{Fraud:20})
 
 ## Features
 
