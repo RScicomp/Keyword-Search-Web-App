@@ -9,12 +9,6 @@ Tired of searching through your giant excel database? Well this web app will hel
 4. Click submit 
 5. Download Excel
 
- <t> Example: 
-<br>
-<t>Keywords: Finance:10, Insurance:20
-<br>
- <t>Combinations: (Insurance:{Blockchain:10}),(AML:{Fraud:20})
-
 ## Features
 
 * Interactive: See the data you're working with. Once you upload a file, the app will a show sample of the data! 
@@ -22,4 +16,9 @@ Tired of searching through your giant excel database? Well this web app will hel
 * Download your results: Get your results instantly!
 
 ## Demo
+Example: 
+<br>
+Keywords: Finance:10, Insurance:20
+<br>
+Combinations: (Insurance:{Blockchain:10})
 <img src="demo.gif" width="1000" height="700"/>
