@@ -5,7 +5,7 @@ Tired of searching through your giant excel database? Well this web app will hel
 
 1. Drag and drop Excel/CSV file 
 2. Select the columns you want to search.
-3. Input a score associated with each keyword. If applicable they may also input combinations of words.
+3. Input a score associated with each keyword. If applicable you may also input combinations of words.
 4. Click submit 
 5. Download Excel
 
