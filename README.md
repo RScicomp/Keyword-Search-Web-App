@@ -10,11 +10,6 @@ Tired of searching through your giant excel database? Well this web app will hel
 5. Download Excel
 
 ## Demo
-Example: 
-<br>
-Keywords: Finance:10, Insurance:20
-<br>
-Combinations: (Insurance:{Blockchain:10})
 <img src="demo.gif" width="1000" height="700"/>
 
 ## Features
@@ -22,3 +17,9 @@ Combinations: (Insurance:{Blockchain:10})
 * Interactive: See the data you're working with. Once you upload a file, the app will a show sample of the data! 
 * Customizable: Select custom columns to search on. Also provide your own scores for each keyword!
 * Download your results: Get your results instantly!
+
+Example query:
+<br>
+Keywords: Finance:10, Insurance:20
+<br>
+Combinations: (Insurance:{Blockchain:10})
