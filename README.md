@@ -1,6 +1,6 @@
 # Keyword Search App
 Tired of searching through your giant excel database? Well this web app will help with what you're looking for!
-
+TODO: Implement Apache spark for distributed analysis.
 ## Instructions
 
 1. Drag and drop Excel/CSV file 
